@@ -1,7 +1,5 @@
 # Bike Store Analysis
 
-This repository contains the data and code for a data analysis project that focuses on analyzing sales data. In this project, we have used SQL queries to extract valuable insights from the provided dataset and created interactive dashboards using Excel to visualize the results.
-
 ## Project Files
 
 1. **Data File**: The dataset used for this analysis is included in the repository. It contains information about orders, customers, products, categories, stores, and staff.
